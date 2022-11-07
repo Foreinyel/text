@@ -1,7 +1,7 @@
-import {{ componentName }} from "./Component";
+import Text from "./Component";
 
 export {
-    {{ componentName }}
+    Text
 };
 
-export default {{ componentName }};
+export default Text;
