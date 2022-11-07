@@ -1,7 +1,7 @@
 import React from "react";
 
 export const Component = (props: any) => {
-  return <div>{props.children}</div>;
+  return <div>{props.children} 444</div>;
 };
 
 export default Component;
